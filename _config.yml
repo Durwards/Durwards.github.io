@@ -2,7 +2,7 @@
 title: He_Define 的博客
 description: '我编程三日<br/>两耳不闻人声<br/>只有硬盘在歌唱<br/>'
 url: 'https://github.com/HeDefine/HeDefine.github.io'
-baseurl: '/HeDefine.github.io/'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
@@ -36,4 +36,4 @@ kramdown:
   hard_wrap: false
 
 gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
