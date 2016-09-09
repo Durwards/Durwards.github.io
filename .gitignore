@@ -12,3 +12,6 @@ assets/scss/bourbon/*
 
 #ignore the _site/*
 /_site/*
+
+#ignore the .DS_Store
+.DS_Store
