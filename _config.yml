@@ -3,7 +3,7 @@ title: He_Define 的博客
 description: '我编程三日<br/>两耳不闻人声<br/>只有硬盘在歌唱<br/>'
 url: 'http://github.com/HeDefine/HeDefine.github.io'
 baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-83919014-1'
 # disqus_shortname: 'your-disqus-name'
 
 author:
