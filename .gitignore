@@ -9,3 +9,6 @@ assets/scss/bourbon/*
 # ignore the sass-cache/
 .sass-cache/*
 **/.sass-cache/*
+
+#ignore the _site/*
+/_site/*
