@@ -779,6 +779,14 @@ body {
 .icon-social-zurb:before {
 	content: "\f1ec"; }
 
+/*新增qq*/
+.icon-social-qq:before {
+	content: "\f21b"; }
+
+/*新增微博*/
+.icon-social-weibo:before {
+	content: : "\f21c";}
+
 .icon-sound:before {
 	content: "\f1ed"; }
 
