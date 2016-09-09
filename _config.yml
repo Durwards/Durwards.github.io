@@ -1,8 +1,8 @@
 # Site settings
 title: Jekyll-Uno
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'https://github.com/Durwards/Durwards.github.io'
-baseurl: '/Durwards.github.io/'
+url: 'https://github.com/HeDefine/HeDefine_Blog'
+baseurl: '/HeDefine_Blog/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
