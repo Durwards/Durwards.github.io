@@ -1,8 +1,8 @@
 # Site settings
 title: He_Define 的博客
-description: 'I programmed three days\n/n
-And heard no human voices.\n/n
-But the hard disk sang.\n/n'
+description: 'I programmed three days<br/>
+And heard no human voices.<br/>
+But the hard disk sang.<br/>'
 url: 'https://github.com/HeDefine/HeDefine.github.io'
 baseurl: '/HeDefine.github.io/'
 # google_analytics: 'UA-XXXXXX-X'
