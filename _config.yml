@@ -14,11 +14,9 @@ short_name : hedefine
 author:
   name: 'He_Define'
   email: hedingfei1993@126.com
-#twitter_username: joshgerdes
-#facebook_username: joshgerdes
   github_username:  HeDefine
-#linkedin_username:  joshgerdes
   weibo_name: HeDefine
+  qq_num: 2261206684
 
 defaults:
   -
